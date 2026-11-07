@@ -15,21 +15,10 @@ Repositori ini berisi laporan dan file pendukung praktikum Embedded System yang 
 | Modul | Topik | Status |
 |-------|-------|--------|
 | Modul 1 | Pengantar Mikrokontroler | Selesai |
-| Modul 2 | ... | Belum |
-| Modul 3 | ... | Belum |
-| Modul 4 | ... | Belum |
-| Modul 5 | ... | Belum |
-
-## Struktur Folder
-
-Praktikum-Embedded-System-Kelompok-22/
-├── README.md
-└── Modul_1/
-├── laporan_modul_1.pdf
-├── laporan_modul_1.tex
-├── src/ # kode program tiap percobaan
-└── img/ # gambar dan dokumentasi
-
+| Modul 2 | Sensor dan Akttuator Motor | Belum |
+| Modul 3 | Komunikasi Serial dan Interfacing | Belum |
+| Modul 4 | Interrupt, Timer, Watchdog, dam Multitasking | Belum |
+| Modul 5 | Pemrosesan Data dan Dasar Sistem Kontrol | Belum |
 
 ## Tools yang Digunakan
 
