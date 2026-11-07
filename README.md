@@ -6,15 +6,19 @@ Repositori ini berisi laporan dan file pendukung praktikum Embedded System yang 
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1  | ...  | ... |
-| 2  | ...  | ... |
+| 1  | Jordi | 5024241029 |
+| 2  | Danendra Nusi Putra Rahanda  | 5024241052 |
+| 3  | Muhammad Syaiful Kalam  | 5024241093 |
 
 ## Daftar Modul
 
 | Modul | Topik | Status |
 |-------|-------|--------|
-| Modul 1 | Pengantar Mikrokontroler (STM32 Blackpill, ESP32, pull-up/pull-down, debouncing, ADC) | Selesai |
+| Modul 1 | Pengantar Mikrokontroler | Selesai |
 | Modul 2 | ... | Belum |
+| Modul 3 | ... | Belum |
+| Modul 4 | ... | Belum |
+| Modul 5 | ... | Belum |
 
 ## Struktur Folder
 
