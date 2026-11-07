@@ -27,7 +27,3 @@ Repositori ini berisi laporan dan file pendukung praktikum Embedded System yang 
 - Board ESP32 DevKit v1
 - Framework Arduino dan ESP-IDF
 - LaTeX untuk penulisan laporan
-
-## Catatan
-
-Setiap modul disimpan dalam foldernya masing-masing. Laporan dikumpulkan dalam bentuk PDF, sedangkan kode program dan dokumentasi percobaan ada di folder `src` dan `img` pada modul terkait.
